@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"name": "EditorServer",
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "java",
+				"name": "Launch External Terminal",
+				"request": "launch",
+				"console": "externalTerminal",
+				"mainClass": ""
+			},
+			{
+				"type": "java",
+				"name": "Launch Java Program",
+				"request": "launch",
+				"mainClass": ""
+			},
+			{
+				"type": "java",
+				"name": "Attach",
+				"request": "attach",
+				"hostName": "localhost",
+				"port": "<debug port of the debuggee>"
+			}
+
+		]
+	}
+}

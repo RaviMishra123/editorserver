@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ravimishra/Downloads/EditorServer/output/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z15maxDisconnectedii, symObjAddr: 0x0, symBinAddr: 0x100003DD8, symSize: 0xB4 }
+  - { offsetInCU: 0xB21, offset: 0xB21, size: 0x8, addend: 0x0, symName: __ZNSt3__13minB8ue170006IiEERKT_S3_S3_, symObjAddr: 0xB4, symBinAddr: 0x100003E8C, symSize: 0x2C }
+  - { offsetInCU: 0xB64, offset: 0xB64, size: 0x8, addend: 0x0, symName: __ZNSt3__13minB8ue170006IiNS_6__lessIvvEEEERKT_S5_S5_T0_, symObjAddr: 0x134, symBinAddr: 0x100003F0C, symSize: 0x54 }
+  - { offsetInCU: 0x2EAD, offset: 0x2EAD, size: 0x8, addend: 0x0, symName: __Z15maxDisconnectedii, symObjAddr: 0x0, symBinAddr: 0x100003DD8, symSize: 0xB4 }
+  - { offsetInCU: 0x2F03, offset: 0x2F03, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xE0, symBinAddr: 0x100003EB8, symSize: 0x54 }
+  - { offsetInCU: 0x2F4D, offset: 0x2F4D, size: 0x8, addend: 0x0, symName: __ZNKSt3__16__lessIvvEclB8ue170006IiiEEbRKT_RKT0_, symObjAddr: 0x188, symBinAddr: 0x100003F60, symSize: 0x34 }
+...
